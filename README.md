@@ -7,7 +7,7 @@ Disk I/O bench test:
 - Before: 2730.7 MB/s
 - After:  2935.5 MB/s
 
-
+![](https://github.com/busysteve/linux-6.17.0-rust-ported-c/blob/main/no-rust_vs_with-rust.png)
 
 More to come. 
 
