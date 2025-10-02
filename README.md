@@ -2,6 +2,17 @@
 A Sonnet driven port of the Linux Rust code to C.
 
 
+
+Disk I/O bench test:
+- Before: 2730.7 MB/s
+- After:  2935.5 MB/s
+
+
+
+More to come. 
+
+
+
 # Rust to C Port - Kernel Module System
 
 This directory contains a complete port of the Rust-for-Linux kernel module system to C. The port maintains the same API design and functionality while using standard C instead of Rust.
